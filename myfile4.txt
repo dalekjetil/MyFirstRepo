@@ -2,3 +2,6 @@ Trying on my own
 
 
 git add
+
+
+This was quite fun!
